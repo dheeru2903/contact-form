@@ -1,0 +1,65 @@
+body{
+    background-color: lightslategray    ;
+    
+    
+
+}
+
+.button{
+    background-color: #010108;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: relative;
+    top:14px;
+    left:150px;
+}
+.name{
+position: relative;
+left: 163px;
+font-weight: 200;
+}
+.naming{
+    font-weight: 200;
+}
+#lname{
+    position: relative;
+    left: 60px;
+    height: 25px;
+    
+}
+#fname{
+    height:25px;
+}
+.email{
+    font-weight: 200;
+}
+#email{
+    height: 25px;
+    width:250px;
+}
+
+#matter{
+    height:80px;
+    width:400px;
+}
+
+.container{
+    background-color: white;
+    border: 45px;
+    padding:25px;
+    border-radius: 28px;
+    width: 430px;
+    height: 565px;
+    position:absolute;
+    top :50px;
+    left:375px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
